@@ -1,6 +1,6 @@
 p5-Net-Simplenote
 =================
 
-Library code to the [Simplenote][] API.
+Library code to the [Simplenote][home] API.
 
-[Simplenote]:"http://www.simplenoteapp.com/"
+[home]:http://www.simplenoteapp.com/
